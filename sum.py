@@ -5,4 +5,4 @@ s1 = first_sum (10,20)
 print(s1)
 
 
-s2 = first_sum
+s2 = first_sum 
