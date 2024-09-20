@@ -1,0 +1,2 @@
+List: ['apple', 'grapes', 'avacodo', 'pineapple']
+Tuple: ('apple', 'grapes', 'avacodo', 'pineapple')
